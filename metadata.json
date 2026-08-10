@@ -1,0 +1,6 @@
+{
+  "name": "학생 자료·과제 제출 현황 정리기",
+  "description": "학교 현장에서 교사가 학생들의 과제 및 학습 자료 제출 현황을 빠르고 직관적으로 관리할 수 있는 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
